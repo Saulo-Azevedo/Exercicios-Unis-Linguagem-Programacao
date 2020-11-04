@@ -6,7 +6,7 @@
 </div>
 <div>
   <div align="right">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="right" height="250px" width="210px">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="right" height="250px" width="250px">
   </div>
 
 <div>
@@ -27,7 +27,7 @@
     </h3>
 <div>
   <div align="right">
-    <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="right" height="100px" width="100px">
+    <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="right" height="200px" width="200px">
   </div>    
     
     
